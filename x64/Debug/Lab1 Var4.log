@@ -1,0 +1,3 @@
+﻿  LINK : the 32-bit linker (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x64\link.exe) failed to do memory mapped file I/O on `x64\Debug\lablib.obj' and is going to restart linking with a 64-bit linker for better throughput
+  LINK : restarting link with 64-bit linker `C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX64\x64\link.exe'
+x64\Debug\lablib.obj : fatal error LNK1136: invalid or corrupt file
