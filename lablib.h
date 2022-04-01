@@ -18,5 +18,7 @@ matrix matrixmult(matrix* mat1, matrix mat2);
 void matrixcpy(matrix* mat1, matrix* mat2);
 matrix matrixtrans(matrix* mat1);
 void matrixadd(matrix* mat1);
+matrix GetMatrix(int type, int x, int y);
+void freematrix(matrix* mat);
 
 #endif
