@@ -1,3 +1,0 @@
-﻿  lablib.c
-C:\Users\Administrator\source\repos\Lab1 Var4\lablib.c(60,21): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Lab1 Var4.vcxproj -> C:\Users\Administrator\source\repos\Lab1 Var4\Debug\Lab1 Var4.exe
